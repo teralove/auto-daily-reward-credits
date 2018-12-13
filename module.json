@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+	"name": "auto-daily-reward-credits",
+	"author": "teralove",
+	"description": "Automatically claim daily TERA Reward credits.",
+	"options": {
+		"niceName": "Auto Daily Reward Credits"
+	},
+    "servers": ["https://raw.githubusercontent.com/teralove/auto-daily-reward-credits/master/"],
+    "supportUrl": "https://github.com/teralove/auto-daily-reward-credits/issues"
+}
